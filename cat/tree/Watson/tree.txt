@@ -1,0 +1,27 @@
+```json
+{
+  "class": "man",
+  "dimensions": [
+    {
+      "name": "action",
+      "attributes": ["smiling", "sitting", "standing", "looking"]
+    },
+    {
+      "name": "appearance",
+      "attributes": ["short hair", "light brown hair", "middle-aged", "fair complexion", "serious expression", "neutral expression", "friendly expression"]
+    },
+    {
+      "name": "clothing",
+      "attributes": ["dark suit", "white shirt", "black tie", "dark jacket", "light-colored shirt"]
+    },
+    {
+      "name": "location",
+      "attributes": ["indoor", "outdoor", "plain white background", "dimly lit", "red structure"]
+    },
+    {
+      "name": "setting",
+      "attributes": ["professional", "formal", "approachable", "serious"]
+    }
+  ]
+}
+```
